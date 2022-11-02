@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Laptopku</string>
+    <string name="hello_blank_fragment">Hello blank
+fragment</string>
+    <string name="this_activity">Get to Know About </string>
+    <string name="this_activity2">D3 Manajemen Informatika</string>
+            <string name="this_activity3">Follow Us!</string>
+    <string name="this_fragment"></string>
+    <string name="search">Search</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Tentang</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="name">Mahasiswa</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Asus</item>
+        <item>Acer</item>
+        <item>HP</item>
+        <item>Lenovo</item>
+        <item>Apple</item>
+        <item>Sony</item>
+        <item>BenQ</item>
+        <item>TOSHIBA</item>
+        <item>DELL</item>
+        <item>IBM</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Harga RP6.599.000</item>
+        <item>Harga RP4.749.000</item>
+        <item>Harga RP6.599.000</item>
+        <item>Harga RPRp4.369.000 - Rp4.569.000</item>
+        <item>Harga RPRp16.699.000</item>
+        <item>Harga RP5.566.000</item>
+        <item>Harga RP4.999.000</item>
+        <item>Harga RP6.799.000</item>
+        <item>Harga RP5.999.000</item>
+        <item>Harga RP4.599.000</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/asus1</item>
+        <item>@drawable/acer1</item>
+        <item>@drawable/hp1</item>
+        <item>@drawable/lenovo1</item>
+        <item>@drawable/apple1</item>
+        <item>@drawable/sony1</item>
+        <item>@drawable/benq1</item>
+        <item>@drawable/thosiba1</item>
+        <item>@drawable/benq1</item>
+        <item>@drawable/ibm1</item>
+    </integer-array>
+</resources>
